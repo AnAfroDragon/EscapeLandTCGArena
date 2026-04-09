@@ -1,0 +1,458 @@
+{
+  "FTM-2": {
+    "id": "FTM-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axobubs",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-3": {
+    "id": "FTM-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandles",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-4": {
+    "id": "FTM-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blazewing",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-5": {
+    "id": "FTM-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bluemerk",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-6": {
+    "id": "FTM-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bogstalker",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-7": {
+    "id": "FTM-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutehoof",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-8": {
+    "id": "FTM-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Celesticorn",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "QED2-2": {
+    "id": "QED2-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charbee",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "FTM-9": {
+    "id": "FTM-9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chubbagon",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "QED1-2": {
+    "id": "QED1-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "false",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clawver",
+    "type": false,
+    "cost": 0,
+    "Monsters": "",
+    "Basic Critters": "",
+    "Legend Critters": ""
+  },
+  "QED2-3": {
+    "id": "QED2-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coralyx",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-11": {
+    "id": "FTM-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Croaksis",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "QED1-3": {
+    "id": "QED1-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptail",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-89": {
+    "id": "FTM-89",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deceptnut",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-13": {
+    "id": "FTM-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deceptnut",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-14": {
+    "id": "FTM-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracoflap",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-90": {
+    "id": "FTM-90",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracoria",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-15": {
+    "id": "FTM-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracoria",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-17": {
+    "id": "FTM-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dreadhound",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-18": {
+    "id": "FTM-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dribbit",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-19": {
+    "id": "FTM-19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emberheart",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-20": {
+    "id": "FTM-20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emberkin",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-21": {
+    "id": "FTM-21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enchantra",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  },
+  "FTM-22": {
+    "id": "FTM-22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evegon",
+    "type": false,
+    "cost": 0,
+    "Trait": false,
+    "Set": false,
+    "_legal": ""
+  }
+}
