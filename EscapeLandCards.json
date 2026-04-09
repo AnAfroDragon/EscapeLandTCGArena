@@ -438,19 +438,19 @@
     "_legal": ""
   },
   "FTM-1": {
-    "id": "FTM-85",
+    "id": "FTM-1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": false,
+        "name": "Auroragon",
+        "type": "Monster",
         "cost": 0,
         "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Auroragon.png",
         "isHorizontal": false
       }
     },
     "name": "Auroragon",
-    "type": "Monster",
+    "type": "false",
     "cost": 0,
     "Trait": false,
     "Set": false,
