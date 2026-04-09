@@ -13,7 +13,10 @@
   },
   "deckBuilding": {
     "mainFilters": [],
-    "formats": []
+    "formats": [      {
+        "title": "Classic",
+        "gameplay": "Classic"
+      }]
   },
   "gameplay": {
     "Classic": {
