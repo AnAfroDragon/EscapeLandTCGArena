@@ -36,7 +36,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        0
+        0, 0
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -47,7 +47,8 @@
           "Critter4",
           "Monster1",
           "Monster2",
-          "Monster3"
+          "Monster3",
+          "Monster"
         ],
         "layout": {
           "direction": "column",
@@ -177,7 +178,7 @@
             "title": "Monster1",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
@@ -193,7 +194,7 @@
             "title": "Monster2",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
@@ -209,7 +210,24 @@
             "title": "Monster3",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+            "Monster": {
+            "title": "Monster",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "DECK",
+              "drawPerTurn": 0,
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
