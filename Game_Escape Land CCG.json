@@ -14,9 +14,27 @@
   "deckBuilding": {
     "mainFilters": [],
     "formats": [      {
-        "title": "Classic",
+        "title": "Set 1 - Free the Monsters",
         "gameplay": "Classic"
-      }]
+      }],
+        "deckRulesets": {
+            "Standard": {
+                "reversedLegality": true,
+                "general": {
+                    "min": 44,
+                    "max": 44,
+                    "maxPerCard": 3
+                },
+                "categories": [
+                    {
+                        "category": "Monster",
+                        "min": 4,
+                        "max": 4,
+                      "maxPerCard": 1
+                    }
+                ]
+            }
+        }
   },
   "gameplay": {
     "Classic": {
@@ -116,7 +134,7 @@
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Critter1": {
-            "title": "Critter1",
+            "title": "Critter Zone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -132,7 +150,7 @@
             "showHiddenCardInHistory": false
           },
                     "Critter2": {
-            "title": "Critter2",
+            "title": "Critter Zone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -148,7 +166,7 @@
             "showHiddenCardInHistory": false
           },
                     "Critter3": {
-            "title": "Critter3",
+            "title": "Critter Zone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -164,7 +182,7 @@
             "showHiddenCardInHistory": false
           },
                     "Critter4": {
-            "title": "Critter4",
+            "title": "Critter Zone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -180,7 +198,7 @@
             "showHiddenCardInHistory": false
           },
           "Monster1": {
-            "title": "Monster1",
+            "title": "Monster Zone",
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -193,10 +211,17 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false, 
+            "cardActionShortcut": {
+    "action": "MOVE",
+    "actionData": {
+        "destination": "ExileHidden"
+    },
+    "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+}
           },
                     "Monster2": {
-            "title": "Monster2",
+            "title": "Monster Zone",
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -209,10 +234,17 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+                      "cardActionShortcut": {
+    "action": "MOVE",
+    "actionData": {
+        "destination": "ExileHidden"
+    },
+    "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+}
           },
                     "Monster3": {
-            "title": "Monster3",
+            "title": "Monster Zone",
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -225,10 +257,17 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+                      "cardActionShortcut": {
+    "action": "MOVE",
+    "actionData": {
+        "destination": "ExileHidden"
+    },
+    "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+}
           },
             "Monster": {
-            "title": "Monster",
+            "title": "Monster Deck",
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "DECK",
