@@ -5,16 +5,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Axobubs",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-3": {
     "id": "FTM-3",
@@ -22,16 +21,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Bandles",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-4": {
     "id": "FTM-4",
@@ -39,16 +37,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Blazewing",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-5": {
     "id": "FTM-5",
@@ -56,16 +53,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Bluemerk",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-6": {
     "id": "FTM-6",
@@ -73,16 +69,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Bogstalker",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-7": {
     "id": "FTM-7",
@@ -90,16 +85,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Brutehoof",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-8": {
     "id": "FTM-8",
@@ -107,16 +101,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Celesticorn",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "QED2-2": {
     "id": "QED2-2",
@@ -124,16 +117,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Charbee",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "FTM-9": {
     "id": "FTM-9",
@@ -141,16 +133,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Chubbagon",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "QED1-2": {
     "id": "QED1-2",
@@ -158,16 +149,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Clawver",
-    "type": false,
-    "cost": 0,
-    "Legend Critters": ""
+    "type": "Legend",
+    "cost": 0
   },
   "QED2-3": {
     "id": "QED2-3",
@@ -175,18 +165,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Coralyx",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-11": {
     "id": "FTM-11",
@@ -194,18 +183,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Croaksis",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "QED1-3": {
     "id": "QED1-3",
@@ -213,37 +201,38 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Cryptail",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-89": {
     "id": "FTM-89",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": false,
+        "name": "Deceptnut",
+        "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Deceptnut_FBLD-89.png",
         "isHorizontal": false
       }
     },
     "name": "Deceptnut",
-    "type": false,
-    "cost": 0,
+    "type": "Legend",
+    "cost": "0",
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": "FTM",
+    "Traits": [
+      "Snuggler"
+    ]
   },
   "FTM-13": {
     "id": "FTM-13",
@@ -251,18 +240,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Deceptnut",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-14": {
     "id": "FTM-14",
@@ -270,18 +258,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Dracoflap",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-90": {
     "id": "FTM-90",
@@ -289,18 +276,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Dracoria",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-15": {
     "id": "FTM-15",
@@ -308,18 +294,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Dracoria",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-17": {
     "id": "FTM-17",
@@ -327,18 +312,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Dreadhound",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-18": {
     "id": "FTM-18",
@@ -346,18 +330,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Dribbit",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-19": {
     "id": "FTM-19",
@@ -365,18 +348,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Emberheart",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-20": {
     "id": "FTM-20",
@@ -384,18 +366,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Emberkin",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-21": {
     "id": "FTM-21",
@@ -403,18 +384,17 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Legend",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Enchantra",
-    "type": false,
+    "type": "Legend",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": false
   },
   "FTM-22": {
     "id": "FTM-22",
@@ -431,11 +411,10 @@
     "name": "Evegon",
     "type": "Basic",
     "cost": "1",
-    "Trait": [
+    "Set": "FTM",
+    "Traits": [
       "Dragon"
-    ],
-    "Set": false,
-    "_legal": ""
+    ]
   },
   "FTM-1": {
     "id": "FTM-1",
@@ -453,7 +432,9 @@
     "type": "Monster",
     "cost": 0,
     "Trait": false,
-    "Set": false,
-    "_legal": ""
+    "Set": "FTM",
+    "Traits": [
+      "Dragon"
+    ]
   }
 }
