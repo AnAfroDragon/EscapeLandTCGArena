@@ -82,6 +82,10 @@
               "style": false,
               "content": [
                 {
+                  "section": "Monster",
+                  "style": false
+                },
+                {
                   "section": "Monster1",
                   "style": false
                 },
