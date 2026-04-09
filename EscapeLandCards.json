@@ -450,7 +450,7 @@
       }
     },
     "name": "Auroragon",
-    "type": "false",
+    "type": "Monster",
     "cost": 0,
     "Trait": false,
     "Set": false,
