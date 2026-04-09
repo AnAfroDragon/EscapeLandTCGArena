@@ -441,17 +441,19 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": false,
-        "cost": 0,
-        "image": "",
+        "name": "Evegon",
+        "type": "Basic Critters",
+        "cost": "1",
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Evegon.png",
         "isHorizontal": false
       }
     },
     "name": "Evegon",
-    "type": false,
-    "cost": 0,
-    "Trait": false,
+    "type": "Basic Critters",
+    "cost": "1",
+    "Trait": [
+      "Dragon"
+    ],
     "Set": false,
     "_legal": ""
   }
