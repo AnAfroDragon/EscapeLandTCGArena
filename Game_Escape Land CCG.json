@@ -15,7 +15,8 @@
     "mainFilters": [],
     "formats": [      {
         "title": "Set 1 - Free the Monsters",
-        "gameplay": "Classic"
+        "gameplay": "Classic",
+      "deckRuleset": "Standard"
       }],
         "deckRulesets": {
             "Standard": {
