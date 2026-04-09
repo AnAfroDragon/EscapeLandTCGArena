@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "",
+    "dataUrl": "https://anafrodragon.github.io/EscapeLandTCGArena/EscapeLandCards.json",
     "cardBack": ""
   },
   "deckBuilding": {
