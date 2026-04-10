@@ -158,7 +158,9 @@
                   "content": [
                     {
                       "section": "Monster",
-                      "style": false
+                      "style": {
+                        "pointerEvents": "none"
+                      }
                     }
                   ]
                 },
@@ -172,21 +174,30 @@
                       "section": "Monster1",
                       "style": {
                         "width": "110px",
-                        "margin": "0 16px"
+                        "margin": "0 16px",
+                        "backdropFilter": "blur(20px)",
+                        "backgroundColor": "#20202042",
+                        "padding": "0.5vh"
                       }
                     },
                     {
                       "section": "Monster2",
                       "style": {
                         "width": "110px",
-                        "margin": "0 16px"
+                        "margin": "0 16px",
+                        "backdropFilter": "blur(20px)",
+                        "backgroundColor": "#20202042",
+                        "padding": "0.5vh"
                       }
                     },
                     {
                       "section": "Monster3",
                       "style": {
                         "width": "110px",
-                        "margin": "0 16px"
+                        "margin": "0 16px",
+                        "backdropFilter": "blur(20px)",
+                        "backgroundColor": "#20202042",
+                        "padding": "0.5vh"
                       }
                     }
                   ],
