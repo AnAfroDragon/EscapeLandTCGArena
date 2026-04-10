@@ -234,6 +234,30 @@
           "APCounter",
           "EPCounter"
         ],
+        "beforeGameStart": {
+          "initialBoardSetup": [
+            {
+              "drawFromTop": "Monster",
+              "count": 1,
+              "destination": "Monster1"
+            },
+            {
+              "drawFromTop": "Monster",
+              "count": 1,
+              "destination": "Monster2"
+            },
+            {
+              "drawFromTop": "Monster",
+              "count": 1,
+              "destination": "Monster3"
+            },
+            {
+              "drawFromTop": "Monster",
+              "count": 1,
+              "destination": "ExileHidden"
+            }
+          ]
+        },
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
