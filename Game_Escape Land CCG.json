@@ -2,8 +2,13 @@
   "name": "Escape Land CCG",
   "menuBackgroundImage": "",
   "defaultRessources": {
-    "backgrounds": [],
-    "decksUrl": ""
+    "backgrounds": [
+      "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Backgrounds/Dplaymat.png",
+      "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Backgrounds/FPPlaymat.png",
+      "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Backgrounds/Gplaymat.png",
+      "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Backgrounds/SNPlaymat.png"
+    ],
+    "decksUrl": "https://anafrodragon.github.io/EscapeLandTCGArena/EscapeLandDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -12,41 +17,41 @@
     "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/ELCardBack.png"
   },
   "deckBuilding": {
-    "mainFilters": [],
-    "formats": [      {
+    "mainFilters": [
+      "type",
+      "cost",
+      "name",
+      "Traits"
+    ],
+    "formats": [
+      {
         "title": "Set 1 - Free the Monsters",
         "gameplay": "Classic",
-      "deckRuleset": "Standard"
-      }],
-        "deckRulesets": {
-            "Standard": {
-                "reversedLegality": true,
-                "general": {
-                    "min": 44,
-                    "max": 44,
-                    "maxPerCard": 3
-                },
-                "categories": [
-                    {
-                        "category": "Monster",
-                        "min": 4,
-                        "max": 4,
-                      "maxPerCard": 1
-                    }
-                ]
-            }
-        }
+        "deckRuleset": "Standard"
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "reversedLegality": true,
+        "general": {
+          "min": 44,
+          "max": 44,
+          "maxPerCard": 3
+        },
+        "categories": [
+          {
+            "category": "Monster",
+            "min": 4,
+            "max": 4,
+            "maxPerCard": 1
+          }
+        ]
+      }
+    }
   },
   "gameplay": {
     "Classic": {
       "hideFacedDownCards": true,
-      "mulligan": {
-        "info": "",
-        "startingHandSize": "4",
-        "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
-      },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
@@ -55,9 +60,7 @@
       },
       "defaultNotes": "",
       "tokens": [],
-      "countersStartingValues": [
-        0, 0
-      ],
+      "countersStartingValues": [],
       "sections": {
         "customSections": [
           "Critter1",
@@ -67,7 +70,9 @@
           "Monster1",
           "Monster2",
           "Monster3",
-          "Monster"
+          "Monster",
+          "APCounter",
+          "EPCounter"
         ],
         "layout": {
           "direction": "column",
@@ -79,19 +84,27 @@
               "content": [
                 {
                   "section": "Critter1",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 },
                 {
                   "section": "Critter2",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 },
                 {
                   "section": "Critter3",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 },
                 {
                   "section": "Critter4",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -105,16 +118,36 @@
                   "style": false
                 },
                 {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "APCounter",
+                      "style": false
+                    },
+                    {
+                      "section": "EPCounter",
+                      "style": false
+                    }
+                  ]
+                },
+                {
                   "section": "Monster1",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 },
                 {
                   "section": "Monster2",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 },
                 {
                   "section": "Monster3",
-                  "style": false
+                  "style": {
+                    "width": 0.714
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -129,7 +162,9 @@
           "Monster",
           "Monster1",
           "Monster2",
-          "Monster3"
+          "Monster3",
+          "APCounter",
+          "EPCounter"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -137,7 +172,7 @@
           "Critter1": {
             "title": "Critter1",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -150,10 +185,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-                    "Critter2": {
+          "Critter2": {
             "title": "Critter2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -166,10 +201,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-                    "Critter3": {
+          "Critter3": {
             "title": "Critter3",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -182,10 +217,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-                    "Critter4": {
+          "Critter4": {
             "title": "Critter4",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -201,7 +236,7 @@
           "Monster1": {
             "title": "Monster1",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -212,19 +247,19 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false, 
+            "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-    "action": "MOVE",
-    "actionData": {
-        "destination": "ExileHidden"
-    },
-    "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
-}
+              "action": "MOVE",
+              "actionData": {
+                "destination": "ExileHidden"
+              },
+              "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+            }
           },
-                    "Monster2": {
+          "Monster2": {
             "title": "Monster2",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -236,18 +271,18 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-                      "cardActionShortcut": {
-    "action": "MOVE",
-    "actionData": {
-        "destination": "ExileHidden"
-    },
-    "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
-}
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "ExileHidden"
+              },
+              "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+            }
           },
-                    "Monster3": {
+          "Monster3": {
             "title": "Monster3",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -259,20 +294,20 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-                      "cardActionShortcut": {
-    "action": "MOVE",
-    "actionData": {
-        "destination": "ExileHidden"
-    },
-    "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
-}
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "ExileHidden"
+              },
+              "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+            }
           },
-            "Monster": {
+          "Monster": {
             "title": "Monster",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "DECK",
-              "drawPerTurn": 0,
+            "drawPerTurn": 0,
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
@@ -283,6 +318,18 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "APCounter": {
+            "title": "APCounter",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3"
+          },
+          "EPCounter": {
+            "title": "EPCounter",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3"
           }
         }
       }
