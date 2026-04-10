@@ -120,43 +120,19 @@
               "content": [
                 {
                   "section": "Critter1",
-                  "style": {
-                    "backdropFilter": "blur(3px)",
-                    "backgroundColor": "#20202042",
-                    "borderRadius": "1vh",
-                    "border": "3px solid #00000042",
-                    "padding": "0.5vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Critter2",
-                  "style": {
-                    "backdropFilter": "blur(3px)",
-                    "backgroundColor": "#20202042",
-                    "borderRadius": "1vh",
-                    "border": "3px solid #00000042",
-                    "padding": "0.5vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Critter3",
-                  "style": {
-                    "backdropFilter": "blur(3px)",
-                    "backgroundColor": "#20202042",
-                    "borderRadius": "1vh",
-                    "border": "3px solid #00000042",
-                    "padding": "0.5vh"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Critter4",
-                  "style": {
-                    "backdropFilter": "blur(3px)",
-                    "backgroundColor": "#20202042",
-                    "borderRadius": "1vh",
-                    "border": "3px solid #00000042",
-                    "padding": "0.5vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -169,6 +145,7 @@
               "content": [
                 {
                   "direction": "column",
+                  "isSymetricalForOpponents": false,
                   "style": {
                     "width": "100px",
                     "--input-text-color": "#ffffff",
@@ -197,15 +174,15 @@
                         "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ep_icon.png) no-repeat left / contain"
                       }
                     }
-                  ],
-                  "isSymetricalForOpponents": false
+                  ]
                 },
                 {
                   "direction": "row",
                   "style": {
                     "width": "0",
                     "height": "0",
-                    "display": "none"
+                    "display": "none",
+                    "overflow": "hidden"
                   },
                   "content": [
                     {
@@ -229,6 +206,7 @@
                         "margin": "0 16px",
                         "backdropFilter": "blur(20px)",
                         "backgroundColor": "#20202042",
+                        "borderRadius": "1vh",
                         "padding": "0.5vh"
                       }
                     },
@@ -239,6 +217,7 @@
                         "margin": "0 16px",
                         "backdropFilter": "blur(20px)",
                         "backgroundColor": "#20202042",
+                        "borderRadius": "1vh",
                         "padding": "0.5vh"
                       }
                     },
@@ -249,6 +228,7 @@
                         "margin": "0 16px",
                         "backdropFilter": "blur(20px)",
                         "backgroundColor": "#20202042",
+                        "borderRadius": "1vh",
                         "padding": "0.5vh"
                       }
                     }
