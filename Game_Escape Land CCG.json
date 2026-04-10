@@ -119,7 +119,9 @@
                 },
                 {
                   "direction": "column",
-                  "style": false,
+                  "style": {
+                    "width": "100px"
+                  },
                   "content": [
                     {
                       "section": "APCounter",
