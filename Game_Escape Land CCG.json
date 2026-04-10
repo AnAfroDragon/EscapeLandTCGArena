@@ -75,25 +75,11 @@
       ],
       "beforeGameStart": {
         "initialBoardSetup": [
+          
           {
-            "drawFromTop": "Monster",
-            "count": 1,
-            "destination": "Monster1"
-          },
-          {
-            "drawFromTop": "Monster",
-            "count": 1,
-            "destination": "Monster2"
-          },
-          {
-            "drawFromTop": "Monster",
-            "count": 1,
-            "destination": "Monster3"
-          },
-          {
-            "drawFromTop": "Monster",
-            "count": 1,
-            "destination": "ExileHidden"
+            "drawFromTop": "deck",
+            "count": 4,
+            "destination": "hand"
           }
         ]
       },
