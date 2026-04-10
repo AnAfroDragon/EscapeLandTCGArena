@@ -115,6 +115,19 @@
           "APCounter",
           "EPCounter"
         ],
+
+      "categoriesAlreadyOnBoard": [
+        "Critter1",
+        "Critter2",
+        "Critter3",
+        "Critter4",
+        "Monster",
+        "Monster1",
+        "Monster2",
+        "Monster3",
+        "APCounter",
+        "EPCounter"
+      ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
