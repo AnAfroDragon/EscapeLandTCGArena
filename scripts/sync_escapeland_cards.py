@@ -20,7 +20,7 @@ from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
 API_ENDPOINT = "https://escape-land-promo.com/api/apps/6983607223fa2143ab594a4a/entities/Card"
-IMAGE_BASE_URL = "https://anafrodragon.github.io/EscapeLandTCGArena/images/images/"
+IMAGE_BASE_URL = "https://anafrodragon.github.io/EscapeLandTCGArena/Images/"
 OUTPUT_JSON = Path("EscapeLandCards.json")
 IMAGES_DIR = Path("images")
 MAX_WORKERS = 10
