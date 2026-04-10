@@ -114,18 +114,17 @@
             {
               "direction": "row",
               "style": {
-                "alignItems": "flex-end"
+                "alignItems": "center"
               },
               "content": [
                 {
                   "direction": "column",
                   "style": {
-                    "height": "8vh",
+                    "height": "9vh",
                     "width": "100px",
                     "--input-text-color": "#64bfe3",
-                    "marginTop": "-1.25vh",
                     "backdropFilter": "blur(20px)",
-                    "backgroundColor": "#202020c9",
+                    "backgroundColor": "#20202042",
                     "borderRadius": "1vh",
                     "padding": "0.5vh"
                   },
@@ -133,13 +132,13 @@
                     {
                       "section": "APCounter",
                       "style": {
-                          "background": "url(https://cdn.imgchest.com/files/800e184ef0f1.png) no-repeat center / contain"
+                        "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ap_icon.png) no-repeat left 0.5vh / contain"
                       }
                     },
                     {
                       "section": "EPCounter",
                       "style": {
-                          "background": "url(https://cdn.imgchest.com/files/800e184ef0f1.png) no-repeat center / contain"
+                        "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ep_icon.png) no-repeat left 0.5vh / contain"
                       }
                     }
                   ],
@@ -148,30 +147,41 @@
                 {
                   "direction": "row",
                   "style": {
-                    "justifyContent": "center"
+                    "width": "110px"
                   },
                   "content": [
                     {
                       "section": "Monster",
-                        "style": false
-                    },
+                      "style": false
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
+                  "style": {
+                    "justifyContent": "center"
+                  },
+                  "content": [
                     {
                       "section": "Monster1",
                       "style": {
-                          "width": "110px"
-                        }
+                        "width": "110px",
+                        "margin": "0 16px"
+                      }
                     },
                     {
                       "section": "Monster2",
                       "style": {
-                          "width": "110px"
-                        }
+                        "width": "110px",
+                        "margin": "0 16px"
+                      }
                     },
                     {
                       "section": "Monster3",
                       "style": {
-                          "width": "110px"
-                        }
+                        "width": "110px",
+                        "margin": "0 16px"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
