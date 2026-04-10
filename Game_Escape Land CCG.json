@@ -80,32 +80,46 @@
           "content": [
             {
               "direction": "row",
-              "style": {
-                "height": "25vh"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Critter1",
                   "style": {
-                    "height": "25vh"
+                    "backdropFilter": "blur(3px)",
+                    "backgroundColor": "#20202042",
+                    "borderRadius": "1vh",
+                    "border": "3px solid #00000042",
+                    "padding": "0.5vh"
                   }
                 },
                 {
                   "section": "Critter2",
                   "style": {
-                    "height": "25vh"
+                    "backdropFilter": "blur(3px)",
+                    "backgroundColor": "#20202042",
+                    "borderRadius": "1vh",
+                    "border": "3px solid #00000042",
+                    "padding": "0.5vh"
                   }
                 },
                 {
                   "section": "Critter3",
                   "style": {
-                    "height": "25vh"
+                    "backdropFilter": "blur(3px)",
+                    "backgroundColor": "#20202042",
+                    "borderRadius": "1vh",
+                    "border": "3px solid #00000042",
+                    "padding": "0.5vh"
                   }
                 },
                 {
                   "section": "Critter4",
                   "style": {
-                    "height": "25vh"
+                    "backdropFilter": "blur(3px)",
+                    "backgroundColor": "#20202042",
+                    "borderRadius": "1vh",
+                    "border": "3px solid #00000042",
+                    "padding": "0.5vh"
                   }
                 }
               ],
