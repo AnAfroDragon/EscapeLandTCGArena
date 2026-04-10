@@ -203,7 +203,9 @@
                 {
                   "direction": "row",
                   "style": {
-                    "width": "110px"
+                    "width": "0",
+                    "height": "0",
+                    "display": "none"
                   },
                   "content": [
                     {
