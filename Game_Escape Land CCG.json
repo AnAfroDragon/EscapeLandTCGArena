@@ -80,23 +80,33 @@
           "content": [
             {
               "direction": "row",
-              "style": false,
+              "style": {
+                "height": "25vh"
+              },
               "content": [
                 {
                   "section": "Critter1",
-                  "style": false
+                  "style": {
+                    "height": "25vh"
+                  }
                 },
                 {
                   "section": "Critter2",
-                  "style": false
+                  "style": {
+                    "height": "25vh"
+                  }
                 },
                 {
                   "section": "Critter3",
-                  "style": false
+                  "style": {
+                    "height": "25vh"
+                  }
                 },
                 {
                   "section": "Critter4",
-                  "style": false
+                  "style": {
+                    "height": "25vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -111,16 +121,26 @@
                   "direction": "column",
                   "style": {
                     "height": "8vh",
-                    "width": "100px"
+                    "width": "100px",
+                    "--input-text-color": "#64bfe3",
+                    "marginTop": "-1.25vh",
+                    "backdropFilter": "blur(20px)",
+                    "backgroundColor": "#202020c9",
+                    "borderRadius": "1vh",
+                    "padding": "0.5vh"
                   },
                   "content": [
                     {
                       "section": "APCounter",
-                      "style": false
+                      "style": {
+                          "background": "url(https://cdn.imgchest.com/files/800e184ef0f1.png) no-repeat center / contain"
+                      }
                     },
                     {
                       "section": "EPCounter",
-                      "style": false
+                      "style": {
+                          "background": "url(https://cdn.imgchest.com/files/800e184ef0f1.png) no-repeat center / contain"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -133,19 +153,25 @@
                   "content": [
                     {
                       "section": "Monster",
-                      "style": false
+                        "style": false
                     },
                     {
                       "section": "Monster1",
-                      "style": false
+                      "style": {
+                          "width": "110px"
+                        }
                     },
                     {
                       "section": "Monster2",
-                      "style": false
+                      "style": {
+                          "width": "110px"
+                        }
                     },
                     {
                       "section": "Monster3",
-                      "style": false
+                      "style": {
+                          "width": "110px"
+                        }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -173,7 +199,7 @@
           "Critter1": {
             "title": "Critter1",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -189,7 +215,7 @@
           "Critter2": {
             "title": "Critter2",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -205,7 +231,7 @@
           "Critter3": {
             "title": "Critter3",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -221,7 +247,7 @@
           "Critter4": {
             "title": "Critter4",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
