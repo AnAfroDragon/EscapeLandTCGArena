@@ -14,7 +14,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://anafrodragon.github.io/EscapeLandTCGArena/EscapeLandCards.json",
-    "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/ELCardBack.png"
+    "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ELCardBack.png"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -332,7 +332,7 @@
               "actionData": {
                 "destination": "ExileHidden"
               },
-              "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+              "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/removeButton.png"
             }
           },
           "Monster2": {
@@ -355,7 +355,7 @@
               "actionData": {
                 "destination": "ExileHidden"
               },
-              "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+              "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/removeButton.png"
             }
           },
           "Monster3": {
@@ -378,7 +378,7 @@
               "actionData": {
                 "destination": "ExileHidden"
               },
-              "image": "https://russeus.github.io/RB-TCG-Arena/Images/removeButton.png"
+              "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/removeButton.png"
             }
           },
           "Monster": {
