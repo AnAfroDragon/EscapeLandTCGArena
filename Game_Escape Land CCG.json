@@ -61,6 +61,42 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [],
+      "categoriesAlreadyOnBoard": [
+        "Critter1",
+        "Critter2",
+        "Critter3",
+        "Critter4",
+        "Monster",
+        "Monster1",
+        "Monster2",
+        "Monster3",
+        "APCounter",
+        "EPCounter"
+      ],
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "Monster",
+            "count": 1,
+            "destination": "Monster1"
+          },
+          {
+            "drawFromTop": "Monster",
+            "count": 1,
+            "destination": "Monster2"
+          },
+          {
+            "drawFromTop": "Monster",
+            "count": 1,
+            "destination": "Monster3"
+          },
+          {
+            "drawFromTop": "Monster",
+            "count": 1,
+            "destination": "ExileHidden"
+          }
+        ]
+      },
       "sections": {
         "customSections": [
           "Critter1",
@@ -219,42 +255,6 @@
                 }
               ],
               "isSymetricalForOpponents": false
-            }
-          ]
-        },
-        "categoriesAlreadyOnBoard": [
-          "Critter1",
-          "Critter2",
-          "Critter3",
-          "Critter4",
-          "Monster",
-          "Monster1",
-          "Monster2",
-          "Monster3",
-          "APCounter",
-          "EPCounter"
-        ],
-        "beforeGameStart": {
-          "initialBoardSetup": [
-            {
-              "drawFromTop": "Monster",
-              "count": 1,
-              "destination": "Monster1"
-            },
-            {
-              "drawFromTop": "Monster",
-              "count": 1,
-              "destination": "Monster2"
-            },
-            {
-              "drawFromTop": "Monster",
-              "count": 1,
-              "destination": "Monster3"
-            },
-            {
-              "drawFromTop": "Monster",
-              "count": 1,
-              "destination": "ExileHidden"
             }
           ]
         },
