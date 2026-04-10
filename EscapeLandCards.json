@@ -1,440 +1,2325 @@
 {
-  "FTM-2": {
-    "id": "FTM-2",
+  "69d7b5720f80b566af3c3c51": {
+    "id": "69d7b5720f80b566af3c3c51",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": "Legend",
+        "name": "Slinktail",
+        "type": "Basic",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/b17c2e3fe_Slinktail.png",
         "isHorizontal": false
       }
     },
-    "name": "Axobubs",
-    "type": "Legend",
-    "cost": 0
+    "name": "Slinktail",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
   },
-  "FTM-3": {
-    "id": "FTM-3",
+  "69d7b547676a8ad580ac85b7": {
+    "id": "69d7b547676a8ad580ac85b7",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": "Legend",
+        "name": "Puddleflit",
+        "type": "Basic",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/1107bdded_Puddleflit.png",
         "isHorizontal": false
       }
     },
-    "name": "Bandles",
-    "type": "Legend",
-    "cost": 0
+    "name": "Puddleflit",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
   },
-  "FTM-4": {
-    "id": "FTM-4",
+  "69d7b50ca51fae0c36c8cfb6": {
+    "id": "69d7b50ca51fae0c36c8cfb6",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": "Legend",
+        "name": "Gloomcap",
+        "type": "Basic",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/ff3e60df0_Gloomcap.png",
         "isHorizontal": false
       }
     },
-    "name": "Blazewing",
-    "type": "Legend",
-    "cost": 0
+    "name": "Gloomcap",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
   },
-  "FTM-5": {
-    "id": "FTM-5",
+  "69d7b46a0bb1e0bd3440bc98": {
+    "id": "69d7b46a0bb1e0bd3440bc98",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
-        "type": "Legend",
+        "name": "Gleamdrake",
+        "type": "Basic",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d9b5f3650_Gleamdrake.png",
         "isHorizontal": false
       }
     },
-    "name": "Bluemerk",
-    "type": "Legend",
-    "cost": 0
+    "name": "Gleamdrake",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
   },
-  "FTM-6": {
-    "id": "FTM-6",
+  "699623d42971ee43e2b43eb8": {
+    "id": "699623d42971ee43e2b43eb8",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "Kingjaw",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/fee4b62fd_Kingjaw_FBLD-92.png",
         "isHorizontal": false
       }
     },
-    "name": "Bogstalker",
-    "type": "Legend",
-    "cost": 0
-  },
-  "FTM-7": {
-    "id": "FTM-7",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Brutehoof",
-    "type": "Legend",
-    "cost": 0
-  },
-  "FTM-8": {
-    "id": "FTM-8",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Celesticorn",
-    "type": "Legend",
-    "cost": 0
-  },
-  "QED2-2": {
-    "id": "QED2-2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Charbee",
-    "type": "Legend",
-    "cost": 0
-  },
-  "FTM-9": {
-    "id": "FTM-9",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Chubbagon",
-    "type": "Legend",
-    "cost": 0
-  },
-  "QED1-2": {
-    "id": "QED1-2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Clawver",
-    "type": "Legend",
-    "cost": 0
-  },
-  "QED2-3": {
-    "id": "QED2-3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Coralyx",
+    "name": "Kingjaw",
     "type": "Legend",
     "cost": 0,
-    "Trait": false,
-    "Set": false
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
   },
-  "FTM-11": {
-    "id": "FTM-11",
+  "699623c399ac4291bf75cc0d": {
+    "id": "699623c399ac4291bf75cc0d",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "Ghoulrex",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/e3d4a8a33_Ghoulrex_FBLD-91.png",
         "isHorizontal": false
       }
     },
-    "name": "Croaksis",
+    "name": "Ghoulrex",
     "type": "Legend",
     "cost": 0,
-    "Trait": false,
-    "Set": false
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
   },
-  "QED1-3": {
-    "id": "QED1-3",
+  "699623b0767c83bf38a7045d": {
+    "id": "699623b0767c83bf38a7045d",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "Dracoria",
         "type": "Legend",
         "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/cbf60eebb_Dracoria_FBLD-90.png",
         "isHorizontal": false
       }
     },
-    "name": "Cryptail",
+    "name": "Dracoria",
     "type": "Legend",
     "cost": 0,
-    "Trait": false,
-    "Set": false
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
   },
-  "FTM-89": {
-    "id": "FTM-89",
+  "6996239ff514b1173b1227ec": {
+    "id": "6996239ff514b1173b1227ec",
     "isToken": false,
     "face": {
       "front": {
         "name": "Deceptnut",
         "type": "Legend",
         "cost": 0,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Deceptnut_FBLD-89.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Deceptnut",
-    "type": "Legend",
-    "cost": "0",
-    "Trait": false,
-    "Set": "FTM",
-    "Traits": [
-      "Snuggler"
-    ]
-  },
-  "FTM-13": {
-    "id": "FTM-13",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/7b2fea985_Deceptnut_FBLD-89.png",
         "isHorizontal": false
       }
     },
     "name": "Deceptnut",
     "type": "Legend",
     "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-14": {
-    "id": "FTM-14",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dracoflap",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-90": {
-    "id": "FTM-90",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dracoria",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-15": {
-    "id": "FTM-15",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dracoria",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-17": {
-    "id": "FTM-17",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dreadhound",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-18": {
-    "id": "FTM-18",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Dribbit",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-19": {
-    "id": "FTM-19",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Emberheart",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-20": {
-    "id": "FTM-20",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Emberkin",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-21": {
-    "id": "FTM-21",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": "Legend",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "Enchantra",
-    "type": "Legend",
-    "cost": 0,
-    "Trait": false,
-    "Set": false
-  },
-  "FTM-22": {
-    "id": "FTM-22",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Evegon",
-        "type": "Basic",
-        "cost": "1",
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Evegon.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Evegon",
-    "type": "Basic",
-    "cost": "1",
-    "Set": "FTM",
     "Traits": [
-      "Dragon"
-    ]
+      "Snugglers"
+    ],
+    "Set": "FTM"
   },
-  "FTM-1": {
-    "id": "FTM-1",
+  "6996238b98df2b2594294338": {
+    "id": "6996238b98df2b2594294338",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Regalhorn",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/35ab932f4_Regalhorn_FBLD-88.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Regalhorn",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "6996237adaf447647e5291e7": {
+    "id": "6996237adaf447647e5291e7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krakenor",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/80c9c8bdc_Krakenor_FBLD-87.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krakenor",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "699623651e2f8ff5897dad03": {
+    "id": "699623651e2f8ff5897dad03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryptag",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/6e2ee3102_Cryptag_FBLD-86.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptag",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "6996235380b69ed215ac538e": {
+    "id": "6996235380b69ed215ac538e",
     "isToken": false,
     "face": {
       "front": {
         "name": "Auroragon",
         "type": "Monster",
         "cost": 0,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Auroragon.png",
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/f1141b405_Auroragon_FBLD-85.png",
         "isHorizontal": false
       }
     },
     "name": "Auroragon",
     "type": "Monster",
     "cost": 0,
-    "Trait": false,
-    "Set": "FTM",
     "Traits": [
-      "Dragon"
-    ]
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69962294a4939c7fcd1db28e": {
+    "id": "69962294a4939c7fcd1db28e",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vulkarion",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/5d5b01195_Vulkarion.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulkarion",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69962284fc1d7a805dbb5565": {
+    "id": "69962284fc1d7a805dbb5565",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shellfire",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/a14636ce8_Shellfire.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shellfire",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69962273fd6e2b2291a0ff24": {
+    "id": "69962273fd6e2b2291a0ff24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rillix",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/b12bac3a1_Rillix.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rillix",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69962262b0fe2290b37876d4": {
+    "id": "69962262b0fe2290b37876d4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mistickle",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/aef959ef5_Mistickle.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mistickle",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "6996225296c7936a922903f9": {
+    "id": "6996225296c7936a922903f9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manty",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/414b16ae1_Mantyra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manty",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69962243348bdf294666f3ac": {
+    "id": "69962243348bdf294666f3ac",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lunaflare",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/aff6bb1aa_Lunaflare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lunaflare",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69962233ba8830b92c7f506f": {
+    "id": "69962233ba8830b92c7f506f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ignitor",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/0e8016d33_Ignitor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ignitor",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "699622257b0698237b6f7568": {
+    "id": "699622257b0698237b6f7568",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glimmus",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/de8645f86_Glimmus.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glimmus",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "6996221317ee04a8a09680ed": {
+    "id": "6996221317ee04a8a09680ed",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Finwing",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/aef2a8fed_Finwing.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finwing",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69962204f08e64015a68bc79": {
+    "id": "69962204f08e64015a68bc79",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coralyx",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/62e54b638_Coralyx.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coralyx",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "699621f43f73a65e956646c9": {
+    "id": "699621f43f73a65e956646c9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charbee",
+        "type": "Basic",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/6167cc1d8_Charbee.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charbee",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "699621e666b17c7aa7d7b143": {
+    "id": "699621e666b17c7aa7d7b143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aerospear",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d31e06327_Aerospear.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aerospear",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "6996212f2e97452dcb088907": {
+    "id": "6996212f2e97452dcb088907",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wulfrik",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/91cc92abf_Wulfrik.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wulfrik",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "6996211faae287da94a7375e": {
+    "id": "6996211faae287da94a7375e",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thumpster",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/90c57376d_Thumpster.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thumpster",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "6996210e5762fa86cdd24a10": {
+    "id": "6996210e5762fa86cdd24a10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Swollbert",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/59f11e1a4_Swollbert.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swollbert",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699620fb22edd06bbe7487f5": {
+    "id": "699620fb22edd06bbe7487f5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Slashmane",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/17e7ad2bb_Slashmane.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slashmane",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699620e9d07d693bf1048154": {
+    "id": "699620e9d07d693bf1048154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pawnder",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/57aface1a_Pawnder.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pawnder",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699620d7766ba50cfff93aa6": {
+    "id": "699620d7766ba50cfff93aa6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hexhopper",
+        "type": "Basic",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/1e9f4d39e_Hexhopper.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hexhopper",
+    "type": "Basic",
+    "cost": 3,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699620c65cca15aa25cbd794": {
+    "id": "699620c65cca15aa25cbd794",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grinshade",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/e1359314c_Grinshade.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grinshade",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699620b595fda25443377d85": {
+    "id": "699620b595fda25443377d85",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ghoulfetch",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/6f987d65a_Ghoulfetch.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghoulfetch",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699620a57833c40c8e3931c6": {
+    "id": "699620a57833c40c8e3931c6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gravemaw",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/8080c928c_Gravemaw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gravemaw",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "6996207c802cd051b0a091d1": {
+    "id": "6996207c802cd051b0a091d1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryptail",
+        "type": "Basic",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/94fa7d951_Cryptail.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptail",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "6996206d2bfb06fc4404bf5b": {
+    "id": "6996206d2bfb06fc4404bf5b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clawver",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/ad3584d9c_Clawver.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clawver",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals",
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "6996205afa48e37ce87ca106": {
+    "id": "6996205afa48e37ce87ca106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bonelash",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c4736f83a_Bonelash.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bonelash",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961f47a6fadf680dcc1d17": {
+    "id": "69961f47a6fadf680dcc1d17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snibbit",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/629cc6f88_Snibbit-75.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snibbit",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961f330e05dad68e955b88": {
+    "id": "69961f330e05dad68e955b88",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shellock",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/875d673d2_Shellock-70.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shellock",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961f11097958c05f8d00bc": {
+    "id": "69961f11097958c05f8d00bc",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadowflare",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/7e79db34e_Shadowflare-68.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadowflare",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961efd0f87569c0fe72ab6": {
+    "id": "69961efd0f87569c0fe72ab6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rottenwrath",
+        "type": "Basic",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/199f4a5fb_Rottenwrath-64.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rottenwrath",
+    "type": "Basic",
+    "cost": 3,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961ed4f0961f35427fd20f": {
+    "id": "69961ed4f0961f35427fd20f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morbidos",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/b39da07e7_Morbidos-50.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morbidos",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961ec05cd65c4902d36919": {
+    "id": "69961ec05cd65c4902d36919",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magelion",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/8d31c4d2d_Magelion-47.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magelion",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961eadddb5e08405ee2c56": {
+    "id": "69961eadddb5e08405ee2c56",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kingjaw",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/b4e99e1b9_Kingjaw-41.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kingjaw",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961e9d62b267c57c741601": {
+    "id": "69961e9d62b267c57c741601",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Harmonix",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/a2a39ade3_Harmonix-36.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Harmonix",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961e8c09762c3ec3e2d8d3": {
+    "id": "69961e8c09762c3ec3e2d8d3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigawhale",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/a7b591965_Gigawhale-31.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigawhale",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961e793c97f4850ca72778": {
+    "id": "69961e793c97f4850ca72778",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ghoulrex",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/4b05c490d_Ghoulrex-29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghoulrex",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961e663363117b71984e1f": {
+    "id": "69961e663363117b71984e1f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flarefox",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/6a1e92402_Flarefox-26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flarefox",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961e53e8af22c3f2475a14": {
+    "id": "69961e53e8af22c3f2475a14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enchantra",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d12ec20fb_Enchantra-21.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enchantra",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961e405231eb2c51834aea": {
+    "id": "69961e405231eb2c51834aea",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emberheart",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d3110b6ff_Emberheart-19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emberheart",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961e2cc9f5bffc2e66e1a1": {
+    "id": "69961e2cc9f5bffc2e66e1a1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dracoria",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/de335f39f_Dracoria-15.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracoria",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961e198d8f0b09cb2f5402": {
+    "id": "69961e198d8f0b09cb2f5402",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dracoflap",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/8f242e432_Dracoflap-14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracoflap",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961e07940871464f83ae4a": {
+    "id": "69961e07940871464f83ae4a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Deceptnut",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/30a48a524_Deceptnut-13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deceptnut",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961df46d9bb2c5288071ef": {
+    "id": "69961df46d9bb2c5288071ef",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Croaksis",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/22906c4e8_Croaksis-11.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Croaksis",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961de3af029ab9316dd585": {
+    "id": "69961de3af029ab9316dd585",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Celesticorn",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/115893cc4_Celesticorn-8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Celesticorn",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961cbd762453e2c54555cb": {
+    "id": "69961cbd762453e2c54555cb",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wraithclaw",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/9d3331853_Wraithclaw-84.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wraithclaw",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961caa5abad83625a2be2d": {
+    "id": "69961caa5abad83625a2be2d",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wilyhop",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/e653c85e9_Wilyhop-83.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wilyhop",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961c94df0a3098986177b0": {
+    "id": "69961c94df0a3098986177b0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teddles",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/17d841d8f_Teddles-79.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teddles",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961c7a519816a46f497ef7": {
+    "id": "69961c7a519816a46f497ef7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sphinxra",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/e0a05d6a5_Sphinxra-76.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sphinxra",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961c66d8e57bc0a50e794f": {
+    "id": "69961c66d8e57bc0a50e794f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snarlslash",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/bf618ade2_Snarlslash-73.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snarlslash",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961c54c2d0c556392c4022": {
+    "id": "69961c54c2d0c556392c4022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scorptide",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/71d2f992d_Scorptide-66.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scorptide",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961c425110637ec578c742": {
+    "id": "69961c425110637ec578c742",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Regalhorn",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/8e1de1662_Regalhorn-63.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Regalhorn",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961c2d8f26387685af9fcb": {
+    "id": "69961c2d8f26387685af9fcb",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ratscar",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c6c201ef6_Ratscar-62.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ratscar",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961c19b4aa9374610b9327": {
+    "id": "69961c19b4aa9374610b9327",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Necrostag",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/0c98c1d57_Necrostag-56.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Necrostag",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961c04933cdc7748f09fc2": {
+    "id": "69961c04933cdc7748f09fc2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krakenor",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/4582438ee_Krakenor-43.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krakenor",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961bf25b71096045631822": {
+    "id": "69961bf25b71096045631822",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyrdodash",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/41124068d_Hydrodash-40.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyrdodash",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961bdfe39043679e955483": {
+    "id": "69961bdfe39043679e955483",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hornspell",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/819982dfe_Hornspell-38.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hornspell",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961bce6e826832f757f31d": {
+    "id": "69961bce6e826832f757f31d",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Headlesscree",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/746adcee4_Headlesscree-37.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Headlesscree",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961bbc940871464f83ae12": {
+    "id": "69961bbc940871464f83ae12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimshaman",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/30b9f2387_Grimshaman-35.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimshaman",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961ba7849498130d323301": {
+    "id": "69961ba7849498130d323301",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigantorix",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/53ebe71d8_Gigantorix-30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigantorix",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961b96767c83bf38a6fc98": {
+    "id": "69961b96767c83bf38a6fc98",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Froakage",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/28e3f2cb5_Froakage-28.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Froakage",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961b842e1edf4d5c6b7abc": {
+    "id": "69961b842e1edf4d5c6b7abc",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Finra",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c6fa51aa7_Finra-25.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finra",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961b738df124fbcc4328d0": {
+    "id": "69961b738df124fbcc4328d0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Finodon",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/7750a3007_Finodon-24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finodon",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dino",
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961b24c207c99afa188922": {
+    "id": "69961b24c207c99afa188922",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exoreap",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/907f3f8e1_Exoreap-23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exoreap",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961b0ab8efcc77ece20455": {
+    "id": "69961b0ab8efcc77ece20455",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emberkin",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d46644796_Emberkin-20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emberkin",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961af412a27f7f3e5bf347": {
+    "id": "69961af412a27f7f3e5bf347",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dreadhound",
+        "type": "Basic",
+        "cost": 3,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/a11b39486_Dreadhound-17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dreadhound",
+    "type": "Basic",
+    "cost": 3,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961ae2519816a46f497dab": {
+    "id": "69961ae2519816a46f497dab",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryptag",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/0145541c7_Cryptag-12.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryptag",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961abe0b7b3869174a7b1f": {
+    "id": "69961abe0b7b3869174a7b1f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brutehoof",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/686057c74_Brutehoof-7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutehoof",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961aab9344597aa9bfcf6a": {
+    "id": "69961aab9344597aa9bfcf6a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bandles",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/3d447c186_Bandles-3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandles",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961a960a281252d480c937": {
+    "id": "69961a960a281252d480c937",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Axobubs",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/a38763a00_Axobubs.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axobubs",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961a7f8732d151b18451ad": {
+    "id": "69961a7f8732d151b18451ad",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Auroragon",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/4d52cdf02_Auroragon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Auroragon",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "6996183c6e4bc5ffbc7f7bdf": {
+    "id": "6996183c6e4bc5ffbc7f7bdf",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whiskerwave",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/01b32ade5_Whiskerwave.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whiskerwave",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "699618238732d151b1845037": {
+    "id": "699618238732d151b1845037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Veolcifur",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c5101c643_Velocifur.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Veolcifur",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "6996180467344c3fa0a3959a": {
+    "id": "6996180467344c3fa0a3959a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Twynight",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c93a0160f_Twynight.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Twynight",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699617ea8941666b74513312": {
+    "id": "699617ea8941666b74513312",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tadwink",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/836e25717_Tadwink.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tadwink",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "699617d15110637ec578c2f6": {
+    "id": "699617d15110637ec578c2f6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stitchghoul",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/6d45f5f59_Stitchghoul.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stitchghoul",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699617785d5b7105bf1d7037": {
+    "id": "699617785d5b7105bf1d7037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sneakfin",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/ae62a7b68_Sneakfin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sneakfin",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "6996175cb7d8c157df2b02d0": {
+    "id": "6996175cb7d8c157df2b02d0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Slyscale",
+        "type": "Basic",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/dba76e688_Slyscale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slyscale",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "6996171ab7d8c157df2b02a3": {
+    "id": "6996171ab7d8c157df2b02a3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shellmigo",
+        "type": "Basic",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/837c133f2_Shellmigo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shellmigo",
+    "type": "Basic",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699617021fbefa34472d532c": {
+    "id": "699617021fbefa34472d532c",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serpentide",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/5044913d3_Serpentide.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serpentide",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "699616e8933cdc7748f08117": {
+    "id": "699616e8933cdc7748f08117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scorchling",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/8a16b89cf_Scorchling.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scorchling",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "699616cb12a27f7f3e5bebfe": {
+    "id": "699616cb12a27f7f3e5bebfe",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pumpkoul",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/cf990911b_Pumpkoul.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pumpkoul",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "6996168edec981974700d992": {
+    "id": "6996168edec981974700d992",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peekaboo",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/f69ec2f98_Peekaboo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peekaboo",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "69961668911f763d8a096648": {
+    "id": "69961668911f763d8a096648",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nocturnix",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/62834b49f_Nocturnix.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nocturnix",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies",
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961630dae703115b23f28e": {
+    "id": "69961630dae703115b23f28e",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neffarat",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/17df73b41_Neffarat.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neffarat",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699616090829711cb5be1531": {
+    "id": "699616090829711cb5be1531",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Necrorex",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d070d14e8_Necrorex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Necrorex",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699615eab3f0c48977ef1cb9": {
+    "id": "699615eab3f0c48977ef1cb9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Necroninja",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/27e847767_Necroninja.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Necroninja",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699615cf62a36a5eb0dbbc95": {
+    "id": "699615cf62a36a5eb0dbbc95",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Necrofowl",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/957e197bf_Necrofowl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Necrofowl",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699615b383a2cb0a2d775789": {
+    "id": "699615b383a2cb0a2d775789",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mysticaru",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c18cea2da_Mysticaru.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mysticaru",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "69961591b4aa9374610b8dfa": {
+    "id": "69961591b4aa9374610b8dfa",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mystenaga",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d6bd87f49_Mystenaga.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mystenaga",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961576bc23c83f4f75eba4": {
+    "id": "69961576bc23c83f4f75eba4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malfin",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/bf23e1c79_Malfin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malfin",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961554690e6347b931ad08": {
+    "id": "69961554690e6347b931ad08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luxurion",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/e3b93bd93_Luxurion.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luxurion",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961537a47d0e209f16b47a": {
+    "id": "69961537a47d0e209f16b47a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lurklash",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/e2144e895_Lurklash.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lurklash",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "6996151a3728c600517665e5": {
+    "id": "6996151a3728c600517665e5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lunalurk",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/382a4b7b8_Lunalurk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lunalurk",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "699614fcb73682890952f481": {
+    "id": "699614fcb73682890952f481",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koalossus",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/87e0bbe05_Koalossus.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koalossus",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699614e12ed4504d462b272b": {
+    "id": "699614e12ed4504d462b272b",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyrdacoil",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/3014eaaf8_Hydracoil.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyrdacoil",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+  "69961485142be4ec937366b7": {
+    "id": "69961485142be4ec937366b7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gildstrider",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/cc3b45576_Gildstrider.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gildstrider",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "6996146a1e8a91d11d001790": {
+    "id": "6996146a1e8a91d11d001790",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flutterdrake",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/d4724ebfc_Flutterdrake.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flutterdrake",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "6996144da82fc98ec251bfa0": {
+    "id": "6996144da82fc98ec251bfa0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evegon",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/efc3fa3b4_Evegon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evegon",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961433d50bef2e0947b22f": {
+    "id": "69961433d50bef2e0947b22f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dribbit",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/cf2671314_Dribbit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dribbit",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961413b8f39058dcd095c8": {
+    "id": "69961413b8f39058dcd095c8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drakara",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/b21eec95b_Drakara.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drakara",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "699613f41db0ecc43662fbef": {
+    "id": "699613f41db0ecc43662fbef",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clawnix",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/54df3ce54_Clawnix.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clawnix",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699613d299a09934a03a7395": {
+    "id": "699613d299a09934a03a7395",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bluemerk",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/92d11a40c_Bluemerk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bluemerk",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+  "699613ae39e8e32cadcebb3e": {
+    "id": "699613ae39e8e32cadcebb3e",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chubbagon",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/88768b98f_Chubbagon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chubbagon",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "69961390c2d0c556392c39f5": {
+    "id": "69961390c2d0c556392c39f5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bogstalker",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/19c73ed4f_Bogstalker.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bogstalker",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+  "6996133f8093730cd2082dca": {
+    "id": "6996133f8093730cd2082dca",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blazewing",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/5fa2da41d_Blazewing.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blazewing",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+  "699611a612a27f7f3e5be74e": {
+    "id": "699611a612a27f7f3e5be74e",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melanchlaw",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://russeus.github.io/RB-TCG-Arena/images/c41617241_Melanchlaw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melanchlaw",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
   }
 }

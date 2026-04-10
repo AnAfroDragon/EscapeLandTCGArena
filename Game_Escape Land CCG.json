@@ -5,11 +5,11 @@
     "backgrounds": [],
     "decksUrl": ""
   },
-  "customHelp": " ",
+  "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://anafrodragon.github.io/EscapeLandTCGArena/EscapeLandCards.json",
-    "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/ELCardBack.png"
+    "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/images/ELCardBack.png"
   },
   "deckBuilding": {
     "mainFilters": [],
