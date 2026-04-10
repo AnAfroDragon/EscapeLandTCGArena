@@ -94,11 +94,6 @@
             "drawFromTop": "Monster",
             "count": 1,
             "destination": "ExileHidden"
-          },
-          {
-            "drawFromTop": "deck",
-            "count": 4,
-            "destination": "hand"
           }
         ]
       },
