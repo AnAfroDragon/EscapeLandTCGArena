@@ -85,25 +85,25 @@
                 {
                   "section": "Critter1",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 },
                 {
                   "section": "Critter2",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 },
                 {
                   "section": "Critter3",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 },
                 {
                   "section": "Critter4",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 }
               ],
@@ -136,19 +136,19 @@
                 {
                   "section": "Monster1",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 },
                 {
                   "section": "Monster2",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 },
                 {
                   "section": "Monster3",
                   "style": {
-                    "width": 0.714
+                    "aspectRatio": 0.714
                   }
                 }
               ],
