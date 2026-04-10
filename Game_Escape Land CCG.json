@@ -110,23 +110,6 @@
                   "style": false
                 },
                 {
-                  "direction": "column",
-                  "style": {
-                    "width": "100px"
-                  },
-                  "content": [
-                    {
-                      "section": "APCounter",
-                      "style": false
-                    },
-                    {
-                      "section": "EPCounter",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                },
-                {
                   "section": "Monster1",
                   "style": false
                 },
