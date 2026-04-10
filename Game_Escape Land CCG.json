@@ -84,27 +84,19 @@
               "content": [
                 {
                   "section": "Critter1",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 },
                 {
                   "section": "Critter2",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 },
                 {
                   "section": "Critter3",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 },
                 {
                   "section": "Critter4",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -131,25 +123,20 @@
                       "section": "EPCounter",
                       "style": false
                     }
-                  ]
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "section": "Monster1",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 },
                 {
                   "section": "Monster2",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 },
                 {
                   "section": "Monster3",
-                  "style": {
-                    "aspectRatio": 0.714
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
