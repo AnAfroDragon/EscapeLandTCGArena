@@ -52,6 +52,33 @@
   "gameplay": {
     "Classic": {
       "hideFacedDownCards": true,
+      "draggableTokens": [
+        {
+          "id": "exhausted-token",
+          "name": "Exhausted",
+          "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/exhausted.png"
+        },
+        {
+          "id": "shield-token",
+          "name": "Shield",
+          "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/shield.png"
+        },
+        {
+          "id": "ep-minus-token",
+          "name": "EP Minus",
+          "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ep_minus.png"
+        },
+        {
+          "id": "ep-plus-token",
+          "name": "EP Plus",
+          "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ep_plus.png"
+        },
+        {
+          "id": "field-effect-token",
+          "name": "Field Effect",
+          "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/field_effect.png"
+        }
+      ],
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
@@ -75,7 +102,6 @@
       ],
       "beforeGameStart": {
         "initialBoardSetup": [
-          
           {
             "drawFromTop": "deck",
             "count": 4,
@@ -96,19 +122,18 @@
           "APCounter",
           "EPCounter"
         ],
-
-      "categoriesAlreadyOnBoard": [
-        "Critter1",
-        "Critter2",
-        "Critter3",
-        "Critter4",
-        "Monster",
-        "Monster1",
-        "Monster2",
-        "Monster3",
-        "APCounter",
-        "EPCounter"
-      ],
+        "categoriesAlreadyOnBoard": [
+          "Critter1",
+          "Critter2",
+          "Critter3",
+          "Critter4",
+          "Monster",
+          "Monster1",
+          "Monster2",
+          "Monster3",
+          "APCounter",
+          "EPCounter"
+        ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
