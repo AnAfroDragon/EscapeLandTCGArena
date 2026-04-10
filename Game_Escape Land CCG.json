@@ -103,41 +103,52 @@
             },
             {
               "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "Monster",
-                  "style": false
-                },
-                {
-                  "section": "Monster1",
-                  "style": false
-                },
-                {
-                  "section": "Monster2",
-                  "style": false
-                },
-                {
-                  "section": "Monster3",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
               "style": {
-                "height": "12.5vh",
-                "width": "100px"
+                "alignItems": "flex-end"
               },
               "content": [
                 {
-                  "section": "APCounter",
-                  "style": false
+                  "direction": "column",
+                  "style": {
+                    "height": "8vh",
+                    "width": "100px"
+                  },
+                  "content": [
+                    {
+                      "section": "APCounter",
+                      "style": false
+                    },
+                    {
+                      "section": "EPCounter",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "EPCounter",
-                  "style": false
+                  "direction": "row",
+                  "style": {
+                    "justifyContent": "center"
+                  },
+                  "content": [
+                    {
+                      "section": "Monster",
+                      "style": false
+                    },
+                    {
+                      "section": "Monster1",
+                      "style": false
+                    },
+                    {
+                      "section": "Monster2",
+                      "style": false
+                    },
+                    {
+                      "section": "Monster3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
