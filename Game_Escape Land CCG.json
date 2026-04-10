@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://anafrodragon.github.io/EscapeLandTCGArena/EscapeLandCards.json",
-    "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/images/ELCardBack.png"
+    "cardBack": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/ELCardBack.png"
   },
   "deckBuilding": {
     "mainFilters": [],
