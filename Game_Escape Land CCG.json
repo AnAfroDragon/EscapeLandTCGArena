@@ -1,6 +1,6 @@
 {
   "name": "Escape Land CCG",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/520f39991866726021667cc3762e5dccdda9e63a.png",
   "defaultRessources": {
     "backgrounds": [
       "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Backgrounds/Dplaymat.png",

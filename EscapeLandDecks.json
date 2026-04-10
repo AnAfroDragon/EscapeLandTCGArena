@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Snuggler",
+    "id": "9a356f7e-5a4d-4afb-a4b2-90a7ea90234e",
+    "cardCount": 44,
+    "createdAt": "2026-04-10T05:23:25.961Z",
+    "lastModifiedAt": "2026-04-10T05:27:39.832Z",
+    "game": "Escape Land CCG",
+    "format": [
+      "Set 1 - Free the Monsters"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Monster",
+        "Basic",
+        "Legend"
+      ],
+      "Monster": [
+        {
+          "count": 1,
+          "id": "699613f41db0ecc43662fbef"
+        },
+        {
+          "count": 1,
+          "id": "6996238b98df2b2594294338"
+        },
+        {
+          "count": 1,
+          "id": "699615b383a2cb0a2d775789"
+        },
+        {
+          "count": 1,
+          "id": "69961c66d8e57bc0a50e794f"
+        }
+      ],
+      "Basic": [
+        {
+          "count": 3,
+          "id": "69961485142be4ec937366b7"
+        },
+        {
+          "count": 3,
+          "id": "69d7b5720f80b566af3c3c51"
+        },
+        {
+          "count": 3,
+          "id": "699611a612a27f7f3e5be74e"
+        },
+        {
+          "count": 2,
+          "id": "699614fcb73682890952f481"
+        },
+        {
+          "count": 2,
+          "id": "6996171ab7d8c157df2b02a3"
+        },
+        {
+          "count": 3,
+          "id": "69961aab9344597aa9bfcf6a"
+        },
+        {
+          "count": 3,
+          "id": "69961abe0b7b3869174a7b1f"
+        },
+        {
+          "count": 3,
+          "id": "69961caa5abad83625a2be2d"
+        },
+        {
+          "count": 3,
+          "id": "69961e663363117b71984e1f"
+        },
+        {
+          "count": 3,
+          "id": "69961ec05cd65c4902d36919"
+        }
+      ],
+      "Legend": [
+        {
+          "count": 3,
+          "id": "6996239ff514b1173b1227ec"
+        },
+        {
+          "count": 2,
+          "id": "69961de3af029ab9316dd585"
+        },
+        {
+          "count": 2,
+          "id": "69961c94df0a3098986177b0"
+        },
+        {
+          "count": 2,
+          "id": "69961c2d8f26387685af9fcb"
+        },
+        {
+          "count": 2,
+          "id": "69961630dae703115b23f28e"
+        },
+        {
+          "count": 1,
+          "id": "699618238732d151b1845037"
+        }
+      ]
+    }
+  },
+  {
+  "title": "Ghoulie",
+  "id": "3f605a16-e85d-4c97-8d6a-b071cfbb3ccd",
+  "cardCount": 44,
+  "createdAt": "2026-04-10T05:29:30.154Z",
+  "lastModifiedAt": "2026-04-10T05:31:57.635Z",
+  "game": "Escape Land CCG",
+  "format": [
+    "Set 1 - Free the Monsters"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Monster",
+      "Basic",
+      "Legend"
+    ],
+    "Monster": [
+      {
+        "count": 1,
+        "id": "6996180467344c3fa0a3959a"
+      },
+      {
+        "count": 1,
+        "id": "699616090829711cb5be1531"
+      },
+      {
+        "count": 1,
+        "id": "699623651e2f8ff5897dad03"
+      },
+      {
+        "count": 1,
+        "id": "69961bce6e826832f757f31d"
+      }
+    ],
+    "Basic": [
+      {
+        "count": 3,
+        "id": "6996151a3728c600517665e5"
+      },
+      {
+        "count": 3,
+        "id": "699617d15110637ec578c2f6"
+      },
+      {
+        "count": 3,
+        "id": "6996168edec981974700d992"
+      },
+      {
+        "count": 3,
+        "id": "69d7b50ca51fae0c36c8cfb6"
+      },
+      {
+        "count": 3,
+        "id": "69961af412a27f7f3e5bf347"
+      },
+      {
+        "count": 3,
+        "id": "69961bbc940871464f83ae12"
+      },
+      {
+        "count": 3,
+        "id": "69961e198d8f0b09cb2f5402"
+      },
+      {
+        "count": 2,
+        "id": "69961efd0f87569c0fe72ab6"
+      },
+      {
+        "count": 2,
+        "id": "699615cf62a36a5eb0dbbc95"
+      },
+      {
+        "count": 2,
+        "id": "69961390c2d0c556392c39f5"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 2,
+        "id": "699616cb12a27f7f3e5bebfe"
+      },
+      {
+        "count": 1,
+        "id": "69961b24c207c99afa188922"
+      },
+      {
+        "count": 2,
+        "id": "69961cbd762453e2c54555cb"
+      },
+      {
+        "count": 3,
+        "id": "69961c19b4aa9374610b9327"
+      },
+      {
+        "count": 2,
+        "id": "69961ed4f0961f35427fd20f"
+      },
+      {
+        "count": 3,
+        "id": "699623c399ac4291bf75cc0d"
+      }
+    ]
+  }
+},
+{
+  "title": "Dragon",
+  "id": "5cea3919-94e3-410c-9191-6addc3ae0f69",
+  "cardCount": 44,
+  "createdAt": "2026-04-10T05:33:10.304Z",
+  "lastModifiedAt": "2026-04-10T05:34:51.979Z",
+  "game": "Escape Land CCG",
+  "format": [
+    "Set 1 - Free the Monsters"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Monster",
+      "Basic",
+      "Legend"
+    ],
+    "Monster": [
+      {
+        "count": 1,
+        "id": "69961ba7849498130d323301"
+      },
+      {
+        "count": 1,
+        "id": "6996146a1e8a91d11d001790"
+      },
+      {
+        "count": 1,
+        "id": "69961413b8f39058dcd095c8"
+      },
+      {
+        "count": 1,
+        "id": "6996235380b69ed215ac538e"
+      }
+    ],
+    "Basic": [
+      {
+        "count": 3,
+        "id": "69961433d50bef2e0947b22f"
+      },
+      {
+        "count": 3,
+        "id": "6996144da82fc98ec251bfa0"
+      },
+      {
+        "count": 3,
+        "id": "69d7b46a0bb1e0bd3440bc98"
+      },
+      {
+        "count": 3,
+        "id": "699616e8933cdc7748f08117"
+      },
+      {
+        "count": 3,
+        "id": "69961554690e6347b931ad08"
+      },
+      {
+        "count": 2,
+        "id": "6996175cb7d8c157df2b02d0"
+      },
+      {
+        "count": 2,
+        "id": "6996133f8093730cd2082dca"
+      },
+      {
+        "count": 2,
+        "id": "69961b0ab8efcc77ece20455"
+      },
+      {
+        "count": 3,
+        "id": "69961e9d62b267c57c741601"
+      },
+      {
+        "count": 3,
+        "id": "69961e53e8af22c3f2475a14"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 3,
+        "id": "699623b0767c83bf38a7045d"
+      },
+      {
+        "count": 3,
+        "id": "69961f11097958c05f8d00bc"
+      },
+      {
+        "count": 1,
+        "id": "69961bdfe39043679e955483"
+      },
+      {
+        "count": 3,
+        "id": "69961c7a519816a46f497ef7"
+      },
+      {
+        "count": 2,
+        "id": "69961e405231eb2c51834aea"
+      },
+      {
+        "count": 1,
+        "id": "699613ae39e8e32cadcebb3e"
+      }
+    ]
+  }
+},
+{
+  "title": "Fishpal",
+  "id": "46196dbb-d19a-4f71-bdcd-46a36cbe0720",
+  "cardCount": 44,
+  "createdAt": "2026-04-10T05:35:16.420Z",
+  "lastModifiedAt": "2026-04-10T05:39:30.374Z",
+  "game": "Escape Land CCG",
+  "format": [
+    "Set 1 - Free the Monsters"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Monster",
+      "Basic",
+      "Legend"
+    ],
+    "Monster": [
+      {
+        "count": 1,
+        "id": "699617021fbefa34472d532c"
+      },
+      {
+        "count": 1,
+        "id": "69961591b4aa9374610b8dfa"
+      },
+      {
+        "count": 1,
+        "id": "6996237adaf447647e5291e7"
+      },
+      {
+        "count": 1,
+        "id": "69961b842e1edf4d5c6b7abc"
+      }
+    ],
+    "Basic": [
+      {
+        "count": 2,
+        "id": "699614e12ed4504d462b272b"
+      },
+      {
+        "count": 3,
+        "id": "69961576bc23c83f4f75eba4"
+      },
+      {
+        "count": 2,
+        "id": "69961537a47d0e209f16b47a"
+      },
+      {
+        "count": 3,
+        "id": "69d7b547676a8ad580ac85b7"
+      },
+      {
+        "count": 3,
+        "id": "699617ea8941666b74513312"
+      },
+      {
+        "count": 3,
+        "id": "699617785d5b7105bf1d7037"
+      },
+      {
+        "count": 3,
+        "id": "69961b96767c83bf38a6fc98"
+      },
+      {
+        "count": 3,
+        "id": "69961f330e05dad68e955b88"
+      },
+      {
+        "count": 3,
+        "id": "69961f47a6fadf680dcc1d17"
+      },
+      {
+        "count": 3,
+        "id": "69961a960a281252d480c937"
+      }
+    ],
+    "Legend": [
+      {
+        "count": 2,
+        "id": "69961c54c2d0c556392c4022"
+      },
+      {
+        "count": 1,
+        "id": "69961b738df124fbcc4328d0"
+      },
+      {
+        "count": 2,
+        "id": "69961df46d9bb2c5288071ef"
+      },
+      {
+        "count": 3,
+        "id": "699623d42971ee43e2b43eb8"
+      },
+      {
+        "count": 2,
+        "id": "69961e8c09762c3ec3e2d8d3"
+      },
+      {
+        "count": 1,
+        "id": "69961bf25b71096045631822"
+      },
+      {
+        "count": 1,
+        "id": "6996183c6e4bc5ffbc7f7bdf"
+      }
+    ]
+  }
+}
+]

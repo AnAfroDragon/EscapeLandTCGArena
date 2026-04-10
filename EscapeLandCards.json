@@ -1285,14 +1285,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hyrdodash",
+        "name": "Hydrodash",
         "type": "Legend",
         "cost": 0,
         "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/41124068d_Hydrodash-40.png",
         "isHorizontal": false
       }
     },
-    "name": "Hyrdodash",
+    "name": "Hydrodash",
     "type": "Legend",
     "cost": 0,
     "Traits": [
@@ -1626,14 +1626,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Veolcifur",
+        "name": "Velocifur",
         "type": "Legend",
         "cost": 0,
         "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/c5101c643_Velocifur.png",
         "isHorizontal": false
       }
     },
-    "name": "Veolcifur",
+    "name": "Velocifur",
     "type": "Legend",
     "cost": 0,
     "Traits": [
@@ -2087,14 +2087,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hyrdacoil",
+        "name": "Hydracoil",
         "type": "Basic",
         "cost": 2,
         "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/3014eaaf8_Hydracoil.png",
         "isHorizontal": false
       }
     },
-    "name": "Hyrdacoil",
+    "name": "Hydracoil",
     "type": "Basic",
     "cost": 2,
     "Traits": [
