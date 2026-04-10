@@ -122,7 +122,7 @@
                   "style": {
                     "height": "9vh",
                     "width": "100px",
-                    "--input-text-color": "#64bfe3",
+                    "--input-text-color": "#ffffff",
                     "backdropFilter": "blur(20px)",
                     "backgroundColor": "#20202042",
                     "borderRadius": "1vh",
@@ -132,12 +132,14 @@
                     {
                       "section": "APCounter",
                       "style": {
+                        "padding": "0.5vh 12px 0.5vh 40px",
                         "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ap_icon.png) no-repeat left 0.5vh / contain"
                       }
                     },
                     {
                       "section": "EPCounter",
                       "style": {
+                        "padding": "0.5vh 12px 0.5vh 40px",
                         "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ep_icon.png) no-repeat left 0.5vh / contain"
                       }
                     }
