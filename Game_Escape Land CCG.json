@@ -123,6 +123,24 @@
                 }
               ],
               "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "height": "12.5vh",
+                "width": "100px"
+              },
+              "content": [
+                {
+                  "section": "APCounter",
+                  "style": false
+                },
+                {
+                  "section": "EPCounter",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
