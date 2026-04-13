@@ -25,8 +25,8 @@
     ],
     "formats": [
       {
-        "title": "Set 1 - Free the Monsters",
-        "gameplay": "Classic",
+        "title": "Standard (Free the Monsters)",
+        "gameplay": "Standard",
         "deckRuleset": "Standard"
       }
     ],
