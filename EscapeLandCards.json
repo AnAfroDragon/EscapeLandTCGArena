@@ -2342,5 +2342,127 @@
       "Ghoulies"
     ],
     "Set": "TGE"
+  },
+  "CAC-1": {
+    "id": "CAC-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cuddleyfish",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC1_Cuddleyfish.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cuddleyfish",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+          ],
+    "Set": "TGE"
+  },
+    "CAC-2": {
+    "id": "CAC-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goldrax",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC2_Goldrax.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goldrax",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "TGE"
+  },
+      "CAC-3": {
+    "id": "CAC-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soulmourn",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC3_Soulmourn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soulmourn",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "TGE"
+  },
+        "CAC-4": {
+    "id": "CAC-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neogon",
+        "type": "Basic",
+        "cost": 3,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC4_Neogon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neogon",
+    "type": "Basic",
+    "cost": 3,
+    "Traits": [
+      "Aliens",
+      "Dragons"
+    ],
+    "Set": "TGE"
+  },
+          "CAC-5": {
+    "id": "CAC-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Debut Dougie",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC5_Dougie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Debut Dougie",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "TGE"
+  },
+            "CAC-8": {
+    "id": "CAC-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zillain",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC5_Dougie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zillain",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dino",
+      "Dragons"
+    ],
+    "Set": "TGE"
   }
 }
