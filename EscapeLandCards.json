@@ -2490,5 +2490,25 @@
       "Dragons"
     ],
     "Set": "TGE"
+      },
+    "PC-1": {
+    "id": "PC-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tricktail",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Promo1_Tricktail.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tricktail",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "TGE"
   }
 }
