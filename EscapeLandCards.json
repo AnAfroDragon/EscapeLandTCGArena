@@ -2489,16 +2489,5 @@
       "Dragons"
     ],
     "Set": "TGE"
-  },
-  "69961a960a281252d480c937": {
-    "id": "69961a960a281252d480c937",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Axobubs",
-        "type": "Basic",
-        "cost": 1,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/a38763a00_Axobubs.png",
-        "isHorizontal": false
-      }
-    }
+  }
+}
