@@ -2321,6 +2321,26 @@
       "Snugglers"
     ],
     "Set": "FTM"
+  },
+  "CAC-6": {
+    "id": "CAC-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ofrendarex",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC6_Ofrendarex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ofrendarex",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dino",
+      "Ghoulies"
+    ],
+    "Set": "TGE"
   }
 }
-
