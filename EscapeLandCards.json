@@ -676,7 +676,7 @@
     "type": "Legend",
     "cost": 0,
     "Traits": [
-      "Dino",
+      "Dinos",
       "Fishpals"
     ],
     "Set": "FTM"
@@ -2465,7 +2465,7 @@
     "type": "Basic",
     "cost": 2,
     "Traits": [
-      "Dino",
+      "Dinos",
       "Ghoulies"
     ],
     "Set": "TGE"
@@ -2486,7 +2486,7 @@
     "type": "Legend",
     "cost": 0,
     "Traits": [
-      "Dino",
+      "Dinos",
       "Dragons"
     ],
     "Set": "TGE"
