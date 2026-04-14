@@ -87,7 +87,7 @@
       },
       "defaultNotes": "",
       "tokens": [],
-      "countersStartingValues": [],
+      "countersStartingValues": [0,0],
       "categoriesAlreadyOnBoard": [
         "Critter1",
         "Critter2",
@@ -163,39 +163,6 @@
                 "alignItems": "center"
               },
               "content": [
-                {
-                  "direction": "column",
-                  "isSymetricalForOpponents": false,
-                  "style": {
-                    "width": "100px",
-                    "--input-text-color": "#ffffff",
-                    "backdropFilter": "blur(20px)",
-                    "backgroundColor": "#20202042",
-                    "borderRadius": "1vh",
-                    "padding": "0.5vh"
-                  },
-                  "content": [
-                    {
-                      "section": "APCounter",
-                      "style": {
-                        "padding": "0.5vh",
-                        "paddingRight": "12px",
-                        "paddingLeft": "40px",
-                        "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ap_icon.png) no-repeat left / contain"
-                      }
-                    },
-                    {
-                      "section": "EPCounter",
-                      "style": {
-                        "marginTop": "0.5vh",
-                        "padding": "0.5vh",
-                        "paddingRight": "12px",
-                        "paddingLeft": "40px",
-                        "background": "url(https://anafrodragon.github.io/EscapeLandTCGArena/Images/MISC/ep_icon.png) no-repeat left / contain"
-                      }
-                    }
-                  ]
-                },
                 {
                   "direction": "row",
                   "style": {
@@ -412,18 +379,6 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          },
-          "APCounter": {
-            "title": "APCounter",
-            "type": "INPUT_NUMBER",
-            "alignment": "CENTER",
-            "height": "3"
-          },
-          "EPCounter": {
-            "title": "EPCounter",
-            "type": "INPUT_NUMBER",
-            "alignment": "CENTER",
-            "height": "3"
           }
         }
       }
