@@ -2322,27 +2322,6 @@
     ],
     "Set": "FTM"
   },
-  "CAC-6": {
-    "id": "CAC-6",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ofrendarex",
-        "type": "Basic",
-        "cost": 2,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC6_Ofrendarex.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ofrendarex",
-    "type": "Basic",
-    "cost": 2,
-    "Traits": [
-      "Dino",
-      "Ghoulies"
-    ],
-    "Set": "TGE"
-  },
   "CAC-1": {
     "id": "CAC-1",
     "isToken": false,
@@ -2444,6 +2423,27 @@
     ],
     "Set": "TGE"
   },
+    "CAC-6": {
+    "id": "CAC-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ofrendarex",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC6_Ofrendarex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ofrendarex",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dino",
+      "Ghoulies"
+    ],
+    "Set": "TGE"
+  },
             "CAC-8": {
     "id": "CAC-8",
     "isToken": false,
@@ -2452,7 +2452,7 @@
         "name": "Zillain",
         "type": "Legend",
         "cost": 0,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC5_Dougie.png",
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC8_Zillain.png",
         "isHorizontal": false
       }
     },
