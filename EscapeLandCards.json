@@ -721,6 +721,26 @@
     ],
     "Set": "FTM"
   },
+    "69961e663363117b71984e1f": {
+    "id": "69961e663363117b71984e1f",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flarefox",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/6a1e92402_Flarefox-26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flarefox",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
   "6996146a1e8a91d11d001790": {
     "id": "6996146a1e8a91d11d001790",
     "isToken": false,
