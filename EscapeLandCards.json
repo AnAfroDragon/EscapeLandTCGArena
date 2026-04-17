@@ -2322,6 +2322,26 @@
     ],
     "Set": "FTM"
   },
+      "Promo-1": {
+    "id": "Promo-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tricktail",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Promo1_Tricktail.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tricktail",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
     "CAC-1": {
     "id": "CAC-1",
     "isToken": false,
