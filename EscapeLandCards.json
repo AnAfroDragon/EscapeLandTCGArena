@@ -400,26 +400,6 @@
     ],
     "Set": "FTM"
   },
-  "CAC-1": {
-    "id": "CAC-1",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Cuddleyfish",
-        "type": "Basic",
-        "cost": 2,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC1_Cuddleyfish.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Cuddleyfish",
-    "type": "Basic",
-    "cost": 2,
-    "Traits": [
-      "Fishpals"
-    ],
-    "Set": "TGE"
-  },
   "69961e07940871464f83ae4a": {
     "id": "69961e07940871464f83ae4a",
     "isToken": false,
@@ -459,26 +439,6 @@
       "Snugglers"
     ],
     "Set": "FTM"
-  },
-  "CAC-5": {
-    "id": "CAC-5",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Debut Dougie",
-        "type": "Basic",
-        "cost": 1,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC5_Dougie.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Debut Dougie",
-    "type": "Basic",
-    "cost": 1,
-    "Traits": [
-      "Snugglers"
-    ],
-    "Set": "TGE"
   },
   "69961e198d8f0b09cb2f5402": {
     "id": "69961e198d8f0b09cb2f5402",
@@ -716,7 +676,7 @@
     "type": "Legend",
     "cost": 0,
     "Traits": [
-      "Dino",
+      "Dinos",
       "Fishpals"
     ],
     "Set": "FTM"
@@ -1000,26 +960,6 @@
       "Ghoulies"
     ],
     "Set": "FTM"
-  },
-  "CAC-2": {
-    "id": "CAC-2",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Goldrax",
-        "type": "Legend",
-        "cost": 0,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC2_Goldrax.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Goldrax",
-    "type": "Legend",
-    "cost": 0,
-    "Traits": [
-      "Dragons"
-    ],
-    "Set": "TGE"
   },
   "699620a57833c40c8e3931c6": {
     "id": "699620a57833c40c8e3931c6",
@@ -1661,27 +1601,6 @@
     ],
     "Set": "FTM"
   },
-  "CAC-4": {
-    "id": "CAC-4",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Neogon",
-        "type": "Basic",
-        "cost": 3,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC4_Neogon.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Neogon",
-    "type": "Basic",
-    "cost": 3,
-    "Traits": [
-      "Aliens",
-      "Dragons"
-    ],
-    "Set": "TGE"
-  },
   "69961668911f763d8a096648": {
     "id": "69961668911f763d8a096648",
     "isToken": false,
@@ -1702,27 +1621,6 @@
       "Dragons"
     ],
     "Set": "FTM"
-  },
-  "CAC-6": {
-    "id": "CAC-6",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ofrendarex",
-        "type": "Basic",
-        "cost": 2,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC6_Ofrendarex.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ofrendarex",
-    "type": "Basic",
-    "cost": 2,
-    "Traits": [
-      "Dino",
-      "Ghoulies"
-    ],
-    "Set": "TGE"
   },
   "699620e9d07d693bf1048154": {
     "id": "699620e9d07d693bf1048154",
@@ -2164,26 +2062,6 @@
     ],
     "Set": "FTM"
   },
-  "CAC-3": {
-    "id": "CAC-3",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Soulmourn",
-        "type": "Basic",
-        "cost": 2,
-        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC3_Soulmourn.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Soulmourn",
-    "type": "Basic",
-    "cost": 2,
-    "Traits": [
-      "Ghoulies"
-    ],
-    "Set": "TGE"
-  },
   "69961c7a519816a46f497ef7": {
     "id": "69961c7a519816a46f497ef7",
     "isToken": false,
@@ -2444,6 +2322,149 @@
     ],
     "Set": "FTM"
   },
+    "CAC-1": {
+    "id": "CAC-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cuddleyfish",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC1_Cuddleyfish.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cuddleyfish",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "TGE"
+  },
+   "CAC-2": {
+    "id": "CAC-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goldrax",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC2_Goldrax.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goldrax",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "TGE"
+  },
+   "CAC-3": {
+    "id": "CAC-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soulmourn",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC3_Soulmourn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soulmourn",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "TGE"
+  },
+    "CAC-4": {
+    "id": "CAC-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neogon",
+        "type": "Basic",
+        "cost": 3,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC4_Neogon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neogon",
+    "type": "Basic",
+    "cost": 3,
+    "Traits": [
+      "Aliens",
+      "Dragons"
+    ],
+    "Set": "TGE"
+  },
+   "CAC-5": {
+    "id": "CAC-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Debut Dougie",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC5_Dougie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Debut Dougie",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "TGE"
+  },
+    "CAC-6": {
+    "id": "CAC-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ofrendarex",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC6_Ofrendarex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ofrendarex",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dinos",
+      "Ghoulies"
+    ],
+    "Set": "TGE"
+  },
+   "CAC-7": {
+    "id": "CAC-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dulitroll",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/CAC7_Dulitroll.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dulitroll",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Snugglers",
+      "Ghoulies"
+    ],
+    "Set": "TGE"
+      },
   "CAC-8": {
     "id": "CAC-8",
     "isToken": false,
@@ -2460,9 +2481,189 @@
     "type": "Legend",
     "cost": 0,
     "Traits": [
-      "Dino",
+      "Dinoss",
       "Dragons"
     ],
     "Set": "TGE"
+      },
+    "KSBT1": {
+    "id": "KSBT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shadowflare",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/KSBT1_Shadowflare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadowflare",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+   "BR4": {
+    "id": "BR4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sphinxra",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/BR4_Sphinxra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sphinxra",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+    "GLS1P3": {
+    "id": "GLS1P3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scorchling",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/GLS1P3_Scorchling.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scorchling",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "FTM"
+  },
+    "BR3": {
+    "id": "BR3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Necrostag",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/BR3_Necrostag.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Necrostag",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+    "GLS1W": {
+    "id": "GLS1W",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wilyhop",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/GLS1W_Wilyhop.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wilyhop",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
+  },
+    "GLSP12": {
+    "id": "69961af412a27f7f3e5bf347",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dreadhound",
+        "type": "Basic",
+        "cost": 3,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/GLSP12_Dreadhound.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dreadhound",
+    "type": "Basic",
+    "cost": 3,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "FTM"
+  },
+    "GLS1P1": {
+    "id": "GLS1P1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Croaksis",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/GLS1P1_Croaksis.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Croaksis",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+    "BR2": {
+    "id": "BR2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Froakage",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/BR2_Froakage.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Froakage",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Fishpals"
+    ],
+    "Set": "FTM"
+  },
+    "BR1": {
+    "id": "BR1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bandles",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/BR1_Bandles.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandles",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "FTM"
   }
 }
