@@ -30,6 +30,13 @@
         "deckRuleset": "Standard"
       }
     ],
+     "formats": [
+          {
+        "title": "Preview (The Great Escape)",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      }
+    ],
     "deckRulesets": {
       "Standard": {
         "reversedLegality": true,
