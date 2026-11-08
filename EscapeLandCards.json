@@ -2666,6 +2666,66 @@
     ],
     "Set": "FTM"
   },
+    "Kitsunuri1": {
+    "id": "Kitsunuri1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kitsunuri1",
+        "type": "Basic",
+        "cost": 2,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/KitsunuriSNG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kitsunuri",
+    "type": "Basic",
+    "cost": 2,
+    "Traits": [
+      "Snugglers"
+    ],
+    "Set": "TGE"
+  },
+    "NavitronRO": {
+    "id": "NavitronRO",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Navitron",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/Navitron.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Navitron",
+    "type": "Monster",
+    "cost": 0,
+    "Traits": [
+      "Robots"
+    ],
+    "Set": "TGE"
+    },
+    "HexhatGH": {
+    "id": "HexhatGH",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hexhat",
+        "type": "Basic",
+        "cost": 1,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/HexhatIG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hexhat",
+    "type": "Basic",
+    "cost": 1,
+    "Traits": [
+      "Ghoulies"
+    ],
+    "Set": "TGE"
+  },
     "BR1": {
     "id": "BR1",
     "isToken": false,
