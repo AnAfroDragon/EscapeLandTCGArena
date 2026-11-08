@@ -24,10 +24,10 @@
       "Traits"
     ],
     "formats": [
-           {
+          {
         "title": "Standard (Free the Monsters)",
         "gameplay": "Standard",
-        "deckRuleset": "Standard",
+        "deckRuleset": "Standard"
       }
     ],
     "deckRulesets": {
