@@ -24,9 +24,8 @@
       "Traits"
     ],
     "formats": [
-          {
-        "title": "Standard (Free the Monsters)",
-        "title": "Preview (The Great Escape)",
+             {
+        "title": "Standard (The Great Escape)",
         "gameplay": "Standard",
         "deckRuleset": "Standard"
       }
