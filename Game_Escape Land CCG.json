@@ -28,11 +28,12 @@
         "title": "Standard (Free the Monsters)",
         "gameplay": "Standard",
         "deckRuleset": "Standard",
-         },
-        {
+      }
+    ],
+     {
         "title": "Preview (The Great Escape)",
         "gameplay": "Standard",
-        "deckRuleset": "Standard"
+        "deckRuleset": "Standard",
       }
     ],
     "deckRulesets": {
