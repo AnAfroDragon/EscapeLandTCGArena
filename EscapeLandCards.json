@@ -2626,6 +2626,26 @@
     ],
     "Set": "FTM"
   },
+    "SkiffclawDI": {
+    "id": "SkiffclawDI",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skiffclaw",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/SkiffclawDI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skiffclaw",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dinos"
+    ],
+    "Set": "TGE"
+  },
     "GLS1P1": {
     "id": "GLS1P1",
     "isToken": false,
@@ -2645,6 +2665,26 @@
       "Fishpals"
     ],
     "Set": "FTM"
+  },
+    "GeodrakeDR": {
+    "id": "GeodrakeDR",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Geodrake",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/GeodrakeDR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Geodrake",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Dragons"
+    ],
+    "Set": "TGE"
   },
     "BR2": {
     "id": "BR2",
@@ -2683,6 +2723,26 @@
     "cost": 2,
     "Traits": [
       "Snugglers"
+    ],
+    "Set": "TGE"
+  },
+    "DonKappaFP": {
+    "id": "DonKappaFP",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "DonKappa",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://anafrodragon.github.io/EscapeLandTCGArena/Images/DonKappaFP.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "DonKappa",
+    "type": "Legend",
+    "cost": 0,
+    "Traits": [
+      "Fishpals"
     ],
     "Set": "TGE"
   },
